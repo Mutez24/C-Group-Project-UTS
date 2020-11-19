@@ -1,0 +1,6 @@
+*.out
+.DS_Store
+encrypted.zip
+encrypted/*.bmp
+decrypted/*.bmp
+readme.txt
